@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Exec=hyprctl dispatch exit
+Name=Log Out
+Comment=One Click Logout
+Icon=system-log-out
+NoDisplay=false
+Categories=Utilities;System
