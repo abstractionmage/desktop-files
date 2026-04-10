@@ -6,6 +6,6 @@ Type=Application
 Exec=systemctl reboot
 Name=Reboot
 Comment=One Click Reboot 
-Icon=system-reboot
+Icon=view-refresh
 NoDisplay=false
 Categories=Utilities;System
