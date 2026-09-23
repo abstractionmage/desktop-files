@@ -3,7 +3,7 @@
 Encoding=UTF-8
 Version=1.0
 Type=Application
-Exec=hyprctl dispatch exit
+Exec=hyprshutdown
 Name=Log Out
 Comment=One Click Logout
 Icon=system-log-out
